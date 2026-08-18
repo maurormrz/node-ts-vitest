@@ -1,0 +1,25 @@
+{
+  "name": "ts-vitest",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 Node.js TypeScript Vitest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurormrz/node-ts-vitest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maurormrz/node-ts-vitest/issues"
+  },
+  "homepage": "https://github.com/maurormrz/node-ts-vitest#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}
